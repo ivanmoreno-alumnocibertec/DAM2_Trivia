@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "descripcion": "¿Capital de Perú?",
+      "opcion1": "Lima",
+      "opcion2": "Cusco",
+      "opcion3": "Los Olivos",
+      "respuesta": "Lima"
+    },
+    {
+      "id": 2,
+      "descripcion": "¿IOS pertenece a?",
+      "opcion1": "Linux",
+      "opcion2": "Windows",
+      "opcion3": "Apple",
+      "respuesta": "Apple"
+    },
+    {
+      "id": 3,
+      "descripcion": "¿Fiestas Patrias se celebra en?",
+      "opcion1": "29 y 30 de Julio",
+      "opcion2": "28 y 29 de Julio",
+      "opcion3": "28 y 29 de Agosto",
+      "respuesta": "28 y 29 de Julio"
+    },
+    {
+      "id": 4,
+      "descripcion": "¿Pueblo más alto del mundo?",
+      "opcion1": "Everest",
+      "opcion2": "La Rinconada",
+      "opcion3": "Machu Picchu",
+      "respuesta": "La Rinconada"
+    },
+    {
+      "id": 5,
+      "descripcion": "¿Perú es rico en el mineral de?",
+      "opcion1": "Cobre",
+      "opcion2": "Uranio",
+      "opcion3": "Quarzo",
+      "respuesta": "Cobre"
+    }
+  ]
+}
